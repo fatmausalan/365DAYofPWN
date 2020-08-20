@@ -1,6 +1,6 @@
 # 365 DAY of PWN
 Day 1: ROP Emporium ret2win (64bit) --> https://medium.com/@int0x33/day-1-rop-emporium-ret2win-64bit-bb0d1893a3b0  
-Day 2: Write an SMPP Fuzzer --> https://medium.com/@int0x33/day-2-write-an-smpp-fuzzer-1809e0a202b5 
+Day 2: Write an SMPP Fuzzer --> https://medium.com/@int0x33/day-2-write-an-smpp-fuzzer-1809e0a202b5   
 Day 3: ROP Emporium split (64bit) --> https://medium.com/@int0x33/day-3-rop-emporium-split-64bit-338b5edccf1a  
 Day 4: Recover Passcode (attackdefense.com) --> https://medium.com/@int0x33/day-4-recover-passcode-attackdefense-com-962df8f00c7c  
 Day 5: ROP Emporium callme (64bit) --> https://medium.com/@int0x33/day-5-rop-emporium-callme-64bit-2001e13a5ff2  
