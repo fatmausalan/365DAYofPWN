@@ -1,4 +1,5 @@
 # 365 DAY of PWN
+The following articles are written by @ZER0
 **Day 1:** ROP Emporium ret2win (64bit) --> https://medium.com/@int0x33/day-1-rop-emporium-ret2win-64bit-bb0d1893a3b0  
 **Day 2:** Write an SMPP Fuzzer --> https://medium.com/@int0x33/day-2-write-an-smpp-fuzzer-1809e0a202b5   
 **Day 3:** ROP Emporium split (64bit) --> https://medium.com/@int0x33/day-3-rop-emporium-split-64bit-338b5edccf1a  
